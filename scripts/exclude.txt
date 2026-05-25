@@ -1,0 +1,24 @@
+
+===> SYSTEM NOISE <===
+
+/proc
+/sys
+/dev
+/run
+/tmp
+/mnt
+/media
+
+===> PACKAGE/CACHE NOISE <===
+
+/var/cache
+/var/tmp
+
+===> USER NOISE <===
+
+*/Downloads
+*/.cache
+*/node_modules
+*/dist
+*/build
+
